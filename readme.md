@@ -268,7 +268,7 @@ excluding `remark-lint-no-` or `remark-lint-`
 *   [`vhf/remark-lint-no-empty-sections`](https://github.com/vhf/remark-lint-no-empty-sections)
     — Ensure every heading is followed by content (forming a section);
 *   [`verekia/remark-lint-no-trailing-spaces`](https://github.com/verekia/remark-lint-no-trailing-spaces)
-    - Ensure that there are no trailing spaces on any line of a file.
+    — Ensure that there are no trailing spaces on any line of a file.
 *   [`vhf/remark-lint-no-url-trailing-slash`](https://github.com/vhf/remark-lint-no-url-trailing-slash)
     — Ensure that the `href` of links has no trailing slash.
 *   [`chcokr/remark-lint-sentence-newline`](https://github.com/chcokr/remark-lint-sentence-newline)
